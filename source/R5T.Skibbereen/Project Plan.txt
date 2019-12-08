@@ -1,4 +1,7 @@
 R5T.Skibbereen - An example classes library, containing example class types and static methods to provide example instances of those example class types.
 
+Builds on work in R5T.Experiments/ClassLibrary1:
+https://github.com/MinexAutomation/R5T.Experiments/tree/master/source/ClassLibrary1
+
 Goals
 
